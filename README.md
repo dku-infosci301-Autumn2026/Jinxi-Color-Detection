@@ -28,9 +28,11 @@ beautiful, ugly, culturally appropriate, authentic, or suitable for removal.
 
 ## Demo
 
-[Watch the full demo video](Demo_Video.MP4)
+[![Watch the Jinxi Color Lens demo on YouTube](https://img.youtube.com/vi/km2at-gR-PM/hqdefault.jpg)](https://youtu.be/km2at-gR-PM)
 
-The full project walkthrough is available as `Demo_Video.MP4`. If GitHub does not offer inline playback, click **View raw** or download the file to play it locally.
+**[▶ Watch the full demo on YouTube](https://youtu.be/km2at-gR-PM)**
+
+Click the video thumbnail or the link above to play the full project walkthrough on YouTube.
 
 ## What this version supports
 
