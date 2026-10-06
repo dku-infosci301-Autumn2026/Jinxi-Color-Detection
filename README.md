@@ -28,9 +28,9 @@ beautiful, ugly, culturally appropriate, authentic, or suitable for removal.
 
 ## Demo
 
-![Jinxi Color Lens demo](media/demo.gif)
+[Watch the full demo video](Demo_Video.MP4)
 
-[Download the short MP4 demo](media/demo.mp4)
+The full project walkthrough is available as `Demo_Video.MP4`. If GitHub does not offer inline playback, click **View raw** or download the file to play it locally.
 
 ## What this version supports
 
